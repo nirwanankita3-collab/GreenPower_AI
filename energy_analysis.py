@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the GreenPower AI dataset
-file_path = r"C:\Users\VICTUS\OneDrive\Desktop\GreenPower_AI\data\GreenPowerAI_Energy_Dataset.csv"
+file_path = "GreenPowerAI_Energy_Dataset.csv"
 df = pd.read_csv(file_path)
 
 # Basic dataset information
