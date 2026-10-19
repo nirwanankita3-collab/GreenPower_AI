@@ -34,7 +34,7 @@ summary = df.groupby("Building")["Energy_Consumption_kWh"].agg(
 ).round(2)
 
 summary.to_csv(
-    r"C:\Users\VICTUS\OneDrive\Desktop\GreenPower_AI\reports\building_energy_summary.csv"
+      "building_energy_summary.csv"
 )
 
-print("\nSummary saved in the reports folder.")
+print("\nSummary saved as building_energy_summary.csv.")
