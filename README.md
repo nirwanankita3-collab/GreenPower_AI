@@ -4,25 +4,30 @@
 GreenPower AI is a data analytics project focused on analyzing building-level energy consumption and identifying patterns that can support data-driven energy optimization decisions.
 
 ## Objectives
+
 -Analyze energy consumption across buildings.
+
 -Calculate total and average energy consumption.
+
 -Identify missing values in the dataset.
+
 -Compare energy usage across buildings.
+
 -Generate building-wise summary reports.
+
 -Present findings using a Power BI dashboard.
 
 ## Tools & Technologies
 
-markdown
-
 -Python: Pandas for data analysis
+
 -SQL: SQL queries for data analysis
+
 -Power BI: Dashboard and data visualization
+
 -CSV: Dataset and summary reports
 
 ## Key Results
-
-markdown
 
 Based on the current project analysis:
 -Dataset contains 1,200 records and 8 columns.
