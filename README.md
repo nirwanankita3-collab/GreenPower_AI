@@ -12,12 +12,18 @@ GreenPower AI is a data analytics project focused on analyzing building-level en
 -Present findings using a Power BI dashboard.
 
 ## Tools & Technologies
+
+markdown
+
 -Python: Pandas for data analysis
 -SQL: SQL queries for data analysis
 -Power BI: Dashboard and data visualization
 -CSV: Dataset and summary reports
 
 ## Key Results
+
+markdown
+
 Based on the current project analysis:
 -Dataset contains 1,200 records and 8 columns.
 -Total energy consumption is approximately 689,297.9 kWh.
